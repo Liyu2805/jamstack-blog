@@ -1,19 +1,25 @@
 .links 
 {
-color : white
+color : white;
 }
 
-.p-blog, .p-title
+.p-blog:hover, .p-title
 {
-color : purple
+color : purple;
 }
 
 #box
 {
-background-color : purple
+background-color : purple;
 }
 
-.b-title, .b-blog
+.b-title, .b-blog:hover
 {
-color : black
+color : black;
 }
+
+.p
+{
+    color:blue;
+}
+
